@@ -1,0 +1,20 @@
+.timerBox {
+    width: auto;
+    height: auto;
+    border: 1px solid teal;
+}
+
+h1 {
+    color: teal;
+    font-family: monospace;
+    font-size: 34px;
+}
+
+button {
+    margin: 0 25px;
+    padding: 5px 15px;
+    border: 1px solid teal;
+    background-color: transparent;
+    color: teal;
+    font-size: 14px;
+}
