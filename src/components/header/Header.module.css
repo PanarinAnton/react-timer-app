@@ -1,0 +1,15 @@
+.headerBox {
+    position: fixed;
+    margin: 0 5%;
+    top:0px;
+    right:0px;
+    border-bottom: 10px solid lightseagreen;
+    width: 90%;
+    height: 100px;
+    background-color: #002a38;
+}
+.headerBox h1 {
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    text-align: center;
+}

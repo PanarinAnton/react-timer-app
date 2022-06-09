@@ -49,7 +49,7 @@ const Counter = function() {
     }
 
     return (
-        <div className='timerBox'>
+        <div className={styles.timerBox}>
             <h1>Timer: {count}</h1>
             <button onClick={btnStart} id="btnStartId">{btnStartTxt}</button>
             <button onClick={btnReset} id="btnResetId">Reset</button>

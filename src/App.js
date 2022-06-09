@@ -1,11 +1,15 @@
 import React, {useState} from 'react';
-import Counter from './components/Counter';
+import Main from './components/main/Main';
+import Header from './components/header/Header';
 import styles from './styles/App.css';
+import Footer from './components/footer/Footer';
 
 function App() {
   return (
     <div className='App'>
-      <Counter/>
+        <Header/>
+        <Main/>
+        <Footer/>
     </div>
   )
 }
