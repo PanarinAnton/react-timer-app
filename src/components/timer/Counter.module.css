@@ -1,6 +1,6 @@
 .timerBox {
-    margin: 200px 0px;
-    width: auto;
+    margin:200px auto 0px;
+    width: 225px;
     height: auto;
 }
 
@@ -19,4 +19,11 @@ button {
     background-color: transparent;
     color: teal;
     font-size: 14px;
+    font-family: Menlo, monospace;
+}
+
+.itemList {
+    margin: 0px auto;
+    border: 3px solid aquamarine;
+    width: 520px;
 }
